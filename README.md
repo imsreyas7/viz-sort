@@ -2,7 +2,7 @@
 
 This application is created using React for visualizing classic sorting algorithms such as merge-sort, quick-sort, insertion-sort, selection-sort, etc.
 
-The app is deployed with heroku [here](https://imsreyas7.github.io/viz-sort/)
+[Viz Sort](https://imsreyas7.github.io/viz-sort/)
 
 ![](sv.jpg)
 
@@ -10,7 +10,7 @@ The app is deployed with heroku [here](https://imsreyas7.github.io/viz-sort/)
 
 ```
   $ git clone https://github.com/imsreyas7/viz-sort.git
-  $ cd Visual-Sort
+  $ cd viz-sort
   $ npm install
   $ npm start
 ```
