@@ -1,6 +1,11 @@
-# Sorting Visualizer
+# Viz Sort - Sorting Algorithm Visualizer
 
-This application is created using React for visualizing classic sorting algorithms such as merge-sort, quick-sort, insertion-sort, selection-sort, etc.
+This application is created using React for visualizing sorting algorithms :
+-merge-sort 
+-quick-sort 
+-insertion-sort 
+-selection-sort 
+-bubble-sort
 
 [Viz Sort](https://imsreyas7.github.io/viz-sort/)
 
