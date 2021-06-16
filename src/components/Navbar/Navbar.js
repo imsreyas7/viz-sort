@@ -5,7 +5,7 @@ const Navbar = ({ handleLength, handleSpeed, handleAlgo, generateRandomArray, ha
 
     return (
         <nav>
-            <div className='nav-brand'>Sorting Visualizer</div>
+            <div className='nav-brand'>SORTING ALGORITHM VISUALIZER</div>
 
             <div className='toolbox'>
                 <div>
