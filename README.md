@@ -2,11 +2,11 @@
 
 This application is created using <strong>React</strong> for visualizing sorting algorithms.
 
--merge-sort 
--quick-sort 
--insertion-sort 
--selection-sort 
--bubble-sort
+- merge-sort
+- quick-sort
+- insertion-sort
+- selection-sort
+- bubble-sort
 
 [Viz Sort](https://imsreyas7.github.io/viz-sort/)
 
