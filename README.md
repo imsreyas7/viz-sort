@@ -2,7 +2,7 @@
 
 This application is created using React for visualizing classic sorting algorithms such as merge-sort, quick-sort, insertion-sort, selection-sort, etc.
 
-The app is deployed with heroku [here](https://sorting-visualizer-shubh1815.herokuapp.com/)
+The app is deployed with heroku here.
 
 ![](/public/sv.jpg)
 
